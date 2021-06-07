@@ -100,16 +100,7 @@ using EStore.Shared;
 #nullable restore
 #line 10 "D:\C# Practice\EStore\EStore\Client\Pages\Index.razor"
       
-    private Catalog cataLog { get; set; } = new Catalog
-    {
-        Products = new List<Product>
-        {
-            new Product(1,"New Jeans","Beatiful Jeans",3500,MainCategory.MensFashion,"Casual",1),
-            new Product(2,"New Jeans","Beatiful Jeans",3500,MainCategory.MensFashion,"Casual",1),
-            new Product(3,"New Jeans","Beatiful Jeans",3500,MainCategory.MensFashion,"Casual",1),
-            new Product(4,"New Jeans","Beatiful Jeans",3500,MainCategory.MensFashion,"Casual",1)
-        }
-    };
+    private Catalog cataLog { get; set; } = new Catalog();
 
 #line default
 #line hidden

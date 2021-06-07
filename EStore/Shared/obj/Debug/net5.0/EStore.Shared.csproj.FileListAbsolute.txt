@@ -10,3 +10,6 @@ D:\C# Practice\EStore\EStore\Shared\obj\Debug\net5.0\EStore.Shared.csproj.CoreCo
 D:\C# Practice\EStore\EStore\Shared\obj\Debug\net5.0\EStore.Shared.dll
 D:\C# Practice\EStore\EStore\Shared\obj\Debug\net5.0\ref\EStore.Shared.dll
 D:\C# Practice\EStore\EStore\Shared\obj\Debug\net5.0\EStore.Shared.pdb
+D:\C# Practice\EStore\EStore\Shared\bin\Debug\net5.0\EStore.Shared.runtimeconfig.json
+D:\C# Practice\EStore\EStore\Shared\bin\Debug\net5.0\EStore.Shared.runtimeconfig.dev.json
+D:\C# Practice\EStore\EStore\Shared\obj\Debug\net5.0\EStore.Shared.genruntimeconfig.cache
